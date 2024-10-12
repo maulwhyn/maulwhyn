@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maulwhyn
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me
+- i'm student from politeknik baja tegal
+-  📫 How to reach me
 
 <!---
 maulwhyn/maulwhyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
